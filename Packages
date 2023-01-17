@@ -1,0 +1,16 @@
+Name: vibetheme
+Package: com.appletech75.vibetheme
+Architecture: iphoneos-arm
+Author: kxbalaguer@gmail.com
+Version: 1.0
+Conflicts:
+Depends: winterboard
+Depiction: 
+Description: cool vibe theme
+Homepage: 
+Maintainer:
+Section: Themes
+filename: ./debs/vibetheme.deb
+Depiction: appletech75-2023.github.io/depictions/vibetheme
+Size: 29 232
+MD5sum: 6c3537a250228ac572a5ab3d107397a9
