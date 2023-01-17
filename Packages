@@ -29,7 +29,7 @@ Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.old
 Name: vibetheme
 Package: com.appletech75.vibetheme
 Architecture: iphoneos-arm
-Author: @appletech75 kxbalaguer@gmail.com
+Author: kxbalaguer@gmail.com
 Version: 1.0
 Conflicts:
 Depends: winterboard
